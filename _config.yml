@@ -123,8 +123,6 @@ deploy:
   repository: git@github.com:liwangmin/Blog.git
   branch: master 
  
-# Stylus 
-baidu-site-verification: XkriditRyz
 
 search:
   path: search.xml
