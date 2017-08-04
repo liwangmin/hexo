@@ -287,7 +287,7 @@ highlight_theme: normal
 # MathJax Support
 mathjax:
   enable: false
-  per_page: false
+  per_page: true
   cdn: //cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
 
@@ -295,7 +295,7 @@ mathjax:
 han: false
 
 # Swiftype Search API Key
-swiftype_key: rxaXfoQu4h4p74dizx_x
+#swiftype_key: rxaXfoQu4h4p74dizx_x
 
 # Baidu Analytics ID
 #baidu_analytics:
@@ -313,7 +313,7 @@ disqus:
 #hypercomments_id:
 
 # Gentie productKey
-gentie_productKey: 0fd3efae15954a19a9ad827f44a366ae
+#gentie_productKey: 0fd3efae15954a19a9ad827f44a366ae
 
 # changyan
 changyan:
@@ -327,7 +327,7 @@ changyan:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC8yOTk3Mi82NTM3
 
 # Baidu Share
 # Available value:
@@ -434,7 +434,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
@@ -466,7 +466,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
