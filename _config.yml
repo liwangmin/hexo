@@ -86,15 +86,17 @@ disqus_shortname:
 theme: hexo-theme-next
 exclude_generator:
 Plugins:
-- hexo-generator-baidu-sitemap
 - hexo-generator-sitemap
+- hexo-generator-baidu-sitemap
 - hexo-generator-feed 
 #sitemap
 sitemap:
   path: sitemap.xml
 
+#baidusitemapsitemap
 baidusitemap:
   path: baidusitemap.xml
+
 #Feed Atom
 feed:
   type: atom

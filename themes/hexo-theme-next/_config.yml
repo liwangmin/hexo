@@ -346,7 +346,7 @@ jiathis: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-#google_site_verification:
+google_site_verification: 2CA0CizXAGCwh6h8ZJxxbPupv_kxQ2OKqH4UPub-8Ks
 
 # Google Analytics
 #google_analytics:
@@ -582,7 +582,7 @@ vendors:
 
   
   # Stylus 
-baidu_site_verification: XkriditRyz
+baidu_site_verification: VpFsSyd1Qo
 
 
 # Assets
