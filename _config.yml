@@ -122,8 +122,9 @@ stylus:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:liwangmin/Blog.git
-  branch: master 
+  repo: 
+      github: git@github.com:liwangmin/Blog.git,master
+      coding: git@git.coding.net:liwangmin/liwangmin.git,master
  
 
 search:
