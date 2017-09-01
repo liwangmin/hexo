@@ -123,7 +123,7 @@ stylus:
 deploy:
   type: git
   repo: 
-      github: git@github.com:liwangmin/liwangmingithub.io.git,master
+      github: git@github.com:liwangmin/liwangmin.github.io.git,master
       coding: git@git.coding.net:liwangmin/liwangmin.coding.me.git,master
  
 
